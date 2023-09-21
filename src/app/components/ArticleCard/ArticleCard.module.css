@@ -1,0 +1,41 @@
+.ArticleCard {
+   display:flex;
+   gap:20px;
+   padding: 20px;
+   width:100%;
+   border: 1px solid black;
+   background-color: #f5f5dc;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   justify-content: flex-end;
+   
+}
+
+
+.ArticleCardImage {
+display:flex;
+max-width:200px;
+align-items:center;
+justify-content: center;
+margin:auto;
+}
+
+.ArticleCardImage img {
+width:100%;
+height:auto;
+border: 1px solid black;
+}
+
+.ArticleCardInterior {
+display:table-column;
+
+}
+
+.dateStyle {
+    color:blue;
+    font-size:small;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.descStyle {
+    font-size:large;
+}
