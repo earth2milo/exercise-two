@@ -13,6 +13,7 @@ console.log(Data);
           <ArticleCard 
           key={article.id} 
             title={article.title}
+            id={article.id}
             description={article.blurb}
             date={new Date(article.publishedDate).toDateString()}
             imageAlt={article.image.alt}

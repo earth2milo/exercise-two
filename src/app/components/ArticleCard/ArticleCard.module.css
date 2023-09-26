@@ -39,3 +39,14 @@ display:table-column;
 .descStyle {
     font-size:large;
 }
+
+.stylesPages {
+    display:flex;
+    gap:20px;
+    padding: 20px;
+    width:100%;
+    border: 1px solid black;
+    background-color: #f5f5dc;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: flex-end;
+}
