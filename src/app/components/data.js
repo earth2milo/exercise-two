@@ -26,7 +26,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://www.fashioncrossover-london.com/downloads/1576494474lorenzoProc2.jpg",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Sep 04 2019 17:04:38 GMT-0400"
@@ -61,7 +61,7 @@ export default [
     
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://cdn.shopify.com/s/files/1/0268/3600/9138/files/GALLERY_QUEER_REVOLUTION_1_56368dab-86cf-44ef-9432-f4b1099cf247.jpg?v=1607514220",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Sep 05 2019 10:04:38 GMT-0400"
@@ -93,7 +93,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://pbs.twimg.com/media/E4ly3SzXEAsFkdR.jpg",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Sep 06 2019 18:04:38 GMT-0400"
@@ -125,7 +125,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHGOJVktBQtM8YbPnQHuVdJuajt015-736tw&usqp=CAU",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Aug 08 2019 12:04:38 GMT-0400"
@@ -157,7 +157,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk-XnWEcVxucmaGGzncFYWugRBc5B_HQvLZg&usqp=CAU",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Aug 10 2019 12:04:38 GMT-0400"
@@ -197,7 +197,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQDP9QpBvSZ1BxwUNDcaC9w2p4DYYcfPZZQ&usqp=CAU",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Aug 22 2019 17:04:38 GMT-0400"

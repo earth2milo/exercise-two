@@ -1,3 +1,5 @@
+
+
 .ArticleCard {
    display:flex;
    gap:20px;
@@ -25,15 +27,69 @@ height:auto;
 border: 1px solid black;
 }
 
-.ArticleCardInterior {
-display:table-column;
 
+
+
+
+.articleHeader {
+padding: 40px 20px 40px 20px;
+background-size:cover;
+background-blend-mode: lighten;
+width:100%;
+min-height:25em;
+border: 1px black solid;
+
+}
+
+.articleWrapper {
+background-color: orange;
+opacity:80%;
+min-width:90em;
+max-height:1080px;
+min-height:45em;
+max-height:1920px;
+gap:10%;
+
+}
+
+.ArticleCardInterior {
+    margin: 0 auto;
+    max-width: 800px;   
+    padding:20px;
+
+}
+
+
+.articleBody {
+    margin: 0 auto;
+    padding:10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-variant-caps:petite-caps;
+}
+
+.ArticleCardInterior h1 {
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: xx-large;
+}
+
+.ArticleCardInterior p {
+font-size: large;
+}
+
+.articleHeaderBlurb {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Italics', sans-serif;
 }
 
 .dateStyle {
     color:blue;
     font-size:small;
+    padding:10px;
     font-family: 'Times New Roman', Times, serif;
+}
+
+#dateStyle:hover {
+border: 10px solid salmon;
+
 }
 
 .descStyle {
